@@ -1,0 +1,9 @@
+﻿  ELECTRIK.cpp
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.h(445): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.h(454): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.h(456): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.h(462): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\peter\documents\isipho gaming\electrik\electrik\electrik\electrik.cpp(10): warning C4551: function call missing argument list
+  ELECTRIK.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ELECTRIK.vcxproj -> C:\Users\PETER\Documents\Isipho gaming\ELECTRIK\ELECTRIK\Debug\ELECTRIK.exe
